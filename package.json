@@ -1,0 +1,8 @@
+{
+  "name": "strike-zone",
+  "version": "1.0.0",
+  "description": "Serveur multijoueur gratuit pour Strike Zone",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
